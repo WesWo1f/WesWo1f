@@ -6,17 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weswo1f" alt="weswo1f" /></a> </p>
 
-- 🔭 I’m currently working on [Fox Flip](https://main.d3k64qny3tu1ka.amplifyapp.com/)
-
-- 🌱 I’m currently learning **Unity**
-
-- 👯 I’m looking to collaborate on [Fox Flip Server](https://github.com/DezSays/Fox-Flip-Server)
-
 - 👨‍💻 All of my projects are available at [https://weswolfthedev.com/](https://weswolfthedev.com/)
 
-- 💬 Ask me about **vanilla Javascript, react, python, C#**
+- 💬 Ask me about **Javascript, react, python, C#**
 
-- 📫 How to reach me **claude.w.fountain@gmail.com**
+- 📫 How to reach me **weswolfthedev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
