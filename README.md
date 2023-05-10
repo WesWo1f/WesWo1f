@@ -1,4 +1,3 @@
-<h1 align="center"><img src="https://media.giphy.com/media/S3Ot3hZ5bcy8o/giphy.gif" align="center" alt="Alt Text" width="500" height="400"></h1>
 
 <h1 align="center">Hi 👋, I'm Wes</h1>
 <h3 align="center">A Full-Stack developer with a passion for learning</h3>
